@@ -1,4 +1,5 @@
 import re
+#Se define la clase fraccion sobrecargando operadores de operacion +/-/%/* y una funcion que simplifica
 class Fraccion:
     __numerador=0
     __denominador=0
